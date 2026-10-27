@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the software release and the associated manuscript, when available."
+title: "IS–determinant proximity analysis"
+type: software
+abstract: "Python workflow for proximity analysis between insertion sequences and plasmid-associated adaptive determinants."
+authors:
+  - name: "DR"
+version: "0.1.0-pre-release"
+
