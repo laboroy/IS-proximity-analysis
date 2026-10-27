@@ -2,7 +2,7 @@
 
 A reproducible command-line workflow for describing the genomic proximity of insertion sequences (ISs) to antimicrobial resistance (AMR), virulence-factor (VF), and metal-resistance (METRES) determinants on plasmids.
 
-> **Research software / pre-release.** This repository is a publication-preparation package, not a biologically validated diagnostic tool. Validate annotation formats and reproduce your published numbers before release.
+> **Research software / pre-release.** This repository is a publication-preparation package.
 
 ## Features
 
